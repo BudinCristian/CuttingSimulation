@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UE_5.3/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+				"D:/UE_5.3/Engine/Plugins/Runtime/SunPosition/Content/SunSky.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/SimulationMap.umap",
+				"D:/UE_5.3/Engine/Content/BasicShapes/Cylinder.uasset",
+				"D:/UE_5.3/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset",
+				"D:/UE_5.3/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/BP_SimulationGameMode.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/WBP_PrimaryUI.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/BP_CuttingTip.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/SimBlank/Blueprints/BP_SimFloatingPawn.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/M_ProcGrid.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/MPC_ProcGrid.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/BP_Floor.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/IA_ToggleUI.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/IMC_Keybinds.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/SimBlank/Blueprints/BP_SimPlayerController.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/BP_UnitTest.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/BP_GCodeTest.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/IA_ResetCameraPosition.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/BP_UnitTest.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/IMC_Commands.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/MI_ProcGrid.uasset",
+				"C:/Users/budin/Documents/Unreal Projects/CuttingSimulation/Content/CuttingSimulation/MySimulationGameMode.uasset"
+			]
+		}
+	]
+}

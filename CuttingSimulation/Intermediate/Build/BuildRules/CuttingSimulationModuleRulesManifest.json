@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\budin\\Documents\\Unreal Projects\\CuttingSimulation\\Source\\CuttingSimulation\\CuttingSimulation.Build.cs",
+		"C:\\Users\\budin\\Documents\\Unreal Projects\\CuttingSimulation\\Source\\CuttingSimulation.Target.cs",
+		"C:\\Users\\budin\\Documents\\Unreal Projects\\CuttingSimulation\\Source\\CuttingSimulationEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

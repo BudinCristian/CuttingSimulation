@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\budin\\documents\\unreal projects\\cuttingsimulation\\source\\cuttingsimulation\\cuttingsimulation.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\budin\\documents\\unreal projects\\cuttingsimulation\\intermediate\\build\\win64\\x64\\cuttingsimulationeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\budin\\documents\\unreal projects\\cuttingsimulation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cuttingsimulation\\definitions.cuttingsimulation.h",
+            "c:\\users\\budin\\documents\\unreal projects\\cuttingsimulation\\source\\cuttingsimulation\\cuttingsimulation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

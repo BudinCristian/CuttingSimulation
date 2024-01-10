@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CuttingSimulation",
+			"Path": "..\\Source\\CuttingSimulation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CuttingSimulationEditor",
+			"Path": "..\\Source\\CuttingSimulationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

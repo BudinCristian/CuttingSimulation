@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CuttingSimulation.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CuttingSimulation.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CuttingSimulationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CuttingSimulation">
+      <UniqueIdentifier>{97AD581E-3CFD-357D-8F66-80A457934F92}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CuttingSimulation\CuttingSimulation.Build.cs">
+      <Filter>Source\CuttingSimulation</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CuttingSimulation\CuttingSimulation.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\CuttingSimulation.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\CuttingTip.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\CuttingTip.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\GCode.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\GCode.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\GCodeTest.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\GCodeTest.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\MyActor.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\MyActor.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\SimulationGameMode.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\SimulationGameMode.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CuttingSimulation\UnitTest.cpp">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CuttingSimulation\UnitTest.h">
+      <Filter>Source\CuttingSimulation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

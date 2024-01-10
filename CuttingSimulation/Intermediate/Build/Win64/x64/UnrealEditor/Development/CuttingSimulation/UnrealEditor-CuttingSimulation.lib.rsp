@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CuttingSimulation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\CuttingSimulationEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\CuttingSimulation.init.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\CuttingTip.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\GCodeTest.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\MyActor.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\SimulationGameMode.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\UnitTest.gen.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\CuttingSimulation.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\CuttingTip.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\GCode.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\GCodeTest.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\MyActor.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\SimulationGameMode.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\UnitTest.cpp.obj"
+"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\Default.rc2.res"
+/OUT:"C:\Users\budin\Documents\Unreal Projects\CuttingSimulation\Intermediate\Build\Win64\x64\UnrealEditor\Development\CuttingSimulation\UnrealEditor-CuttingSimulation.lib"
